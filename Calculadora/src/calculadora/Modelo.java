@@ -5,10 +5,8 @@
  */
 package calculadora;
 
-/**
- *
- * @author WIN-10
- */
+
+
 public class Modelo {
-    
+
 }
